@@ -1,0 +1,13 @@
+C:\Users\iKnot\source\repos\Banking\Banking\bin\Debug\Banking.exe.config
+C:\Users\iKnot\source\repos\Banking\Banking\bin\Debug\Banking.exe
+C:\Users\iKnot\source\repos\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\iKnot\source\repos\Banking\Banking\bin\Debug\MetroFramework.Design.dll
+C:\Users\iKnot\source\repos\Banking\Banking\bin\Debug\MetroFramework.dll
+C:\Users\iKnot\source\repos\Banking\Banking\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\iKnot\source\repos\Banking\Banking\obj\Debug\Banking.Form1.resources
+C:\Users\iKnot\source\repos\Banking\Banking\obj\Debug\Banking.Properties.Resources.resources
+C:\Users\iKnot\source\repos\Banking\Banking\obj\Debug\Banking.Verification.resources
+C:\Users\iKnot\source\repos\Banking\Banking\obj\Debug\Banking.csproj.GenerateResource.Cache
+C:\Users\iKnot\source\repos\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\iKnot\source\repos\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\iKnot\source\repos\Banking\Banking\obj\Debug\Banking.pdb
